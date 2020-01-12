@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/weatherApp/static/css/main.bd39b9a7.chunk.css",
-    "main.js": "/weatherApp/static/js/main.fe8b084f.chunk.js",
-    "main.js.map": "/weatherApp/static/js/main.fe8b084f.chunk.js.map",
+    "main.css": "/weatherApp/static/css/main.2f96bb08.chunk.css",
+    "main.js": "/weatherApp/static/js/main.6b38b208.chunk.js",
+    "main.js.map": "/weatherApp/static/js/main.6b38b208.chunk.js.map",
     "runtime-main.js": "/weatherApp/static/js/runtime-main.b1b8ee91.js",
     "runtime-main.js.map": "/weatherApp/static/js/runtime-main.b1b8ee91.js.map",
     "static/css/2.6f8bcf7b.chunk.css": "/weatherApp/static/css/2.6f8bcf7b.chunk.css",
-    "static/js/2.f4447ce3.chunk.js": "/weatherApp/static/js/2.f4447ce3.chunk.js",
-    "static/js/2.f4447ce3.chunk.js.map": "/weatherApp/static/js/2.f4447ce3.chunk.js.map",
+    "static/js/2.10617d4d.chunk.js": "/weatherApp/static/js/2.10617d4d.chunk.js",
+    "static/js/2.10617d4d.chunk.js.map": "/weatherApp/static/js/2.10617d4d.chunk.js.map",
     "index.html": "/weatherApp/index.html",
-    "precache-manifest.5293262c0afdd0acbc0c77cbdecf8bd9.js": "/weatherApp/precache-manifest.5293262c0afdd0acbc0c77cbdecf8bd9.js",
+    "precache-manifest.f407e49661ee2459c9962ba2c52aff9e.js": "/weatherApp/precache-manifest.f407e49661ee2459c9962ba2c52aff9e.js",
     "service-worker.js": "/weatherApp/service-worker.js",
     "static/css/2.6f8bcf7b.chunk.css.map": "/weatherApp/static/css/2.6f8bcf7b.chunk.css.map",
-    "static/css/main.bd39b9a7.chunk.css.map": "/weatherApp/static/css/main.bd39b9a7.chunk.css.map",
-    "static/js/2.f4447ce3.chunk.js.LICENSE": "/weatherApp/static/js/2.f4447ce3.chunk.js.LICENSE",
+    "static/css/main.2f96bb08.chunk.css.map": "/weatherApp/static/css/main.2f96bb08.chunk.css.map",
+    "static/js/2.10617d4d.chunk.js.LICENSE": "/weatherApp/static/js/2.10617d4d.chunk.js.LICENSE",
     "static/media/App.css": "/weatherApp/static/media/bg.b6796c73.jpg",
     "static/media/bootstrap.min.css": "/weatherApp/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.b1b8ee91.js",
     "static/css/2.6f8bcf7b.chunk.css",
-    "static/js/2.f4447ce3.chunk.js",
-    "static/css/main.bd39b9a7.chunk.css",
-    "static/js/main.fe8b084f.chunk.js"
+    "static/js/2.10617d4d.chunk.js",
+    "static/css/main.2f96bb08.chunk.css",
+    "static/js/main.6b38b208.chunk.js"
   ]
 }
